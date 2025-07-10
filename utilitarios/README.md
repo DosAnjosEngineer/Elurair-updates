@@ -1,4 +1,4 @@
-### 📦 Arquivos Úteis
+### 📦 Arquivos Úteis 🇧🇷
 
 ---
 
@@ -27,7 +27,7 @@ Para mais informações, consulte a [licença oficial do HxD](https://mh-nexus.d
 
 <br>
 
-### 📦 Useful Files
+### 📦 Useful Files 🇺🇸
 
 ---
 
