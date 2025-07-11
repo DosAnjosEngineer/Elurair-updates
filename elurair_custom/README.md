@@ -67,7 +67,7 @@ Por fim, clique em **Build** para finalizar o projeto e aplicar a nova skin.
 
 ## - **Elurair skins**
 
-[ferramental_v1.zip]()
+[ferramental_v1.zip](https://github.com/DosAnjosEngineer/Elurair-updates/raw/refs/heads/main/elurair_custom/ferramental_v1.zip)
 <p align="center">
   <img src="IMG/ferramental_v1.png" alt="Exemplo do Launcher">
 </p>
