@@ -8,9 +8,9 @@ Abaixo estão listadas as versões do Elurair, organizadas por ano. Clique nos t
 ---
 
 <details>
-<summary>2.19.0.492</summary>
+<summary>2.18.1.484</summary>
 
-- [2.18.1.484 (32-bit)]()
-- [2.18.1.484 (64-bit)]()
+- [2.18.1.484 (32-bit)](https://github.com/DosAnjosEngineer/Elurair-updates/raw/refs/heads/main/elurair_original/versoes_antigas/2025-01-08elurair-2.18.1.484.zip)
+- [2.18.1.484 (64-bit)](https://github.com/DosAnjosEngineer/Elurair-updates/raw/refs/heads/main/elurair_original/versoes_antigas/2025-01-08elurair-x64-2.18.1.484.zip)
 
 </details>
