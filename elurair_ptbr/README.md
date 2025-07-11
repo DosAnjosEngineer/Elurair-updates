@@ -1,6 +1,23 @@
+## 📦 Download Disponiveis no repositorio
+
+
+- [2.19.0.492 (32-bit)](https://github.com/DosAnjosEngineer/Elurair-updates/raw/refs/heads/main/elurair_original/2025-03-08elurair-2.19.0.492.zip)
+- [2.19.0.492 (64-bit)](https://github.com/DosAnjosEngineer/Elurair-updates/raw/refs/heads/main/elurair_original/2025-03-08elurair-x64-2.19.0.492.zip)
+
+
+
 ## 📝 Histórico de Atualizações (Changelog)
 
-Abaixo estão listadas as versões do Elurair agrupadas por ano. Clique nos títulos para expandir ou recolher as atualizações. Caso se interesse por alguma das versões mais antigas que não esteja no repositório, você pode baixá-las no site oficial [CLICANDO AQUI.](https://elurair.com/#download)
+Este changelog tem como objetivo **informar as modificações realizadas nas versões do Elurair ao longo dos anos**.  
+💡 **Importante:** Este histórico **não disponibiliza versões antigas para download**. As informações aqui servem exclusivamente como registro evolutivo do projeto. Caso se interesse por alguma das versões mais antigas que não esteja no repositório, você pode baixá-las no site oficial [CLICANDO AQUI.](https://elurair.com/#download)   
+⚠️ **Aviso:** O uso de versões antigas do Elurair não é recomendado. Caso opte por utilizá-las, faça isso por sua conta e risco, pois elas podem conter falhas ou recursos obsoletos.
+
+
+Abaixo estão listadas as versões do Elurair, organizadas por ano. Clique nos títulos para expandir ou recolher os detalhes das atualizações.
+
+---
+
+
 
 ---
 
