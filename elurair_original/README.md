@@ -1,17 +1,8 @@
 ## 📦 Download Disponiveis no repositorio
 
-This build is clean and ready for configuration. It will not work on its own.
 
-2.19.0.492 (32-bit)
-
-2.19.0.492 (64-bit)
-
-Demo
-This build is pre-configured to the sample configuration.
-
-2.19.0.492 (32-bit)
-
-2.19.0.492 (64-bit)
+- [2.19.0.492 (32-bit)]()
+- [2.19.0.492 (64-bit)]()
 
 
 
