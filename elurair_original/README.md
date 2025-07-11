@@ -1,8 +1,8 @@
 ## 📦 Download Disponiveis no repositorio
 
 
-- [2.19.0.492 (32-bit)]()
-- [2.19.0.492 (64-bit)]()
+- [2.19.0.492 (32-bit)](https://github.com/DosAnjosEngineer/Elurair-updates/raw/refs/heads/main/elurair_original/2025-03-08elurair-2.19.0.492.zip)
+- [2.19.0.492 (64-bit)](https://github.com/DosAnjosEngineer/Elurair-updates/raw/refs/heads/main/elurair_original/2025-03-08elurair-x64-2.19.0.492.zip)
 
 
 
