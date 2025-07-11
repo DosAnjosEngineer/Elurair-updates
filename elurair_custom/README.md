@@ -7,7 +7,7 @@ Nesta pasta, disponibilizo as SKINS que desenvolvi ou que foram compartilhadas g
 
 ## - **Como adicionar uma skin no Elurair**
 
-Após ter baixado o Elurair pelo [REPOSITÓRIO]() ou pelo [SITE OFICIAL](), extraia-o em uma pasta específica para manter a organização. As pastas ficarão conforme o exemplo a seguir:
+Após ter baixado o Elurair pelo [REPOSITÓRIO PT-BR](https://github.com/DosAnjosEngineer/Elurair-updates/tree/main/elurair_ptbr)/[REPOSITÓRIO ORIGINAL](https://github.com/DosAnjosEngineer/Elurair-updates/tree/main/elurair_original) ou pelo [SITE OFICIAL](https://elurair.com/#download), extraia-o em uma pasta específica para manter a organização. As pastas ficarão conforme o exemplo a seguir:
 
 <p align="center">
   <img src="IMG/image.png" alt="Exemplo de pasta organizada">
