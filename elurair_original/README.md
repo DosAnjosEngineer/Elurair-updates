@@ -1,13 +1,13 @@
 ## 📝 Histórico de Atualizações (Changelog)
 
-Abaixo estão listadas as versões do Elurair agrupadas por ano. Clique nos títulos para expandir ou recolher as atualizações.
+Abaixo estão listadas as versões do Elurair agrupadas por ano. Clique nos títulos para expandir ou recolher as atualizações. Caso se interesse por alguma das versões mais antigas que não esteja no repositório, você pode baixá-las no site oficial [CLICANDO AQUI.](https://elurair.com/#download)
 
 ---
 
 <details>
 <summary>📅 2025</summary>
 
-- **[2025-03-08]** 🔧 Versão 2.19.0.492  
+- **[2025-03-08]** 🔧 Versão 2.19.0.492
   Suporte a transparência PNG e uso de HTTPS para patching (não oficialmente suportado).
 
 - **[2025-01-08]** 🛠️ Versão 2.18.1.484  
